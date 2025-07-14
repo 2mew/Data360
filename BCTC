@@ -1,1 +1,20 @@
-<iframe title="Báo cáo tài chính" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=e0625356-8e7d-4c70-8924-4cc5b2382658&autoAuth=true&ctid=4f7bedbf-ff7e-428b-9995-8374323e20e3" frameborder="0" allowFullScreen="true"></iframe>
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <title>Data360 - Báo cáo tài chính</title>
+</head>
+<body>
+  <h1>Chào mừng bạn đến với Data360!</h1>
+  <h2>Báo cáo tài chính</h2>
+
+  <iframe
+    title="Báo cáo tài chính"
+    width="1140"
+    height="541.25"
+    src="https://app.powerbi.com/reportEmbed?reportId=e0625356-8e7d-4c70-8924-4cc5b2382658&autoAuth=true&ctid=4f7bedbf-ff7e-428b-9995-8374323e20e3"
+    frameborder="0"
+    allowFullScreen="true">
+  </iframe>
+</body>
+</html>
